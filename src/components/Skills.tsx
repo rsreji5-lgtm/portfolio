@@ -23,12 +23,6 @@ export default function Skills() {
       textClass: 'text-amber-400',
     },
     {
-      label: 'C++',
-      abbr: 'CP',
-      circleBgClass: 'bg-indigo-500/10 border border-indigo-500/25',
-      textClass: 'text-indigo-400',
-    },
-    {
       label: 'JavaScript',
       abbr: 'JS',
       circleBgClass: 'bg-yellow-500/10 border border-yellow-500/25',
@@ -99,12 +93,6 @@ export default function Skills() {
       abbr: 'AS',
       circleBgClass: 'bg-green-500/10 border border-green-500/25',
       textClass: 'text-green-400',
-    },
-    {
-      label: 'Tailwind CSS',
-      abbr: 'TW',
-      circleBgClass: 'bg-teal-500/10 border border-teal-500/25',
-      textClass: 'text-teal-400',
     },
   ];
 

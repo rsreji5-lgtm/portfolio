@@ -1,0 +1,6 @@
+{
+  "name": "REJI R S Portfolio",
+  "description": "Premium, modern personal portfolio website for Reji R S, AI & Data Science Engineer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

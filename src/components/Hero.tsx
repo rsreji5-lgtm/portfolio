@@ -144,7 +144,7 @@ export default function Hero({ onViewProjects, onDownloadResume }: HeroProps) {
             {/* Soft inner black border and image mask */}
             <div className="w-full h-full rounded-full overflow-hidden bg-base-dark flex items-center justify-center relative">
               <img
-                src="/assets/images/Reji_profile.png"
+                src="/images/Reji_profile.png"
                 alt="Reji R S - AI & Data Science Engineer"
                 referrerPolicy="no-referrer"
                 className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-700 filter grayscale-[10%] group-hover:grayscale-0"

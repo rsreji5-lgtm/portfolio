@@ -43,13 +43,6 @@ export default function Footer() {
           </p>
         </div>
 
-        {/* Middle: Small Heart indicator */}
-        <div className="hidden md:flex items-center space-x-1.5 text-xs text-white/35">
-          <span>Designed & Coded with</span>
-          <Heart className="w-3.5 h-3.5 text-accent/60 fill-accent/10 animate-pulse" />
-          <span>in Tamil Nadu, India</span>
-        </div>
-
         {/* Right: Social Profiles */}
         <div className="flex items-center space-x-3">
           {socialLinks.map((link, idx) => (

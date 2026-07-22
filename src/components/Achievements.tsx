@@ -34,7 +34,7 @@ export default function Achievements() {
   const achievements: (AchievementItem & { icon: React.ReactNode })[] = [
     {
       label: 'Projects Completed',
-      value: 15,
+      value: 5,
       suffix: '+',
       icon: <FolderCheck className="w-6 h-6 text-[#9DB2BF]" />,
     },

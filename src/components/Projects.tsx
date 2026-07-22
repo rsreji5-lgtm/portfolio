@@ -20,7 +20,7 @@ export default function Projects() {
       badge: 'IoT & Telemetry Dash',
       description:
         'IoT-enabled water monitoring system using NodeMCU for real-time tank monitoring, alerts, and dashboard analytics.',
-      tech: ['NodeMCU', 'Flutter', 'Firebase'],
+      tech: ['ESP32', 'HTML5', 'Node.js', 'MSSQL'],
       imageSrc: '/aquagaurd.jpeg',
       demoUrl: 'https://youtu.be/ocyMNRA_HwE?si=-St9ecDI_lTGa841',
     },
@@ -32,8 +32,8 @@ export default function Projects() {
       description:
         'Flutter application that generates participation and winner certificates dynamically with cloud storage integration.',
       tech: ['Flutter', 'Firebase', 'Supabase'],
-      imageSrc: '/ai_neural_about_1784645921455.jpg',
-      demoUrl: '#',
+      imageSrc: '/gen_cer.jpeg',
+      demoUrl: 'https://youtu.be/vUSXON6aKi8?si=A34YyNBxfWjHjJrs',
     },
     {
       id: 'proj-1',
@@ -42,7 +42,7 @@ export default function Projects() {
       badge: 'OCR & Vision System',
       description:
         'AI-powered OCR marksheet digitization platform that extracts student information and marks from scanned answer sheets and converts them into structured digital records.',
-      tech: ['Python', 'OCR', 'FastAPI', 'React', 'MySQL'],
+      tech: ['Python', 'GLM_OCR', 'FastAPI','MySQL'],
       imageSrc: '/ocr.jpeg',
       comingSoon: true,
     },

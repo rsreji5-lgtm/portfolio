@@ -54,7 +54,7 @@ export default function About() {
             <div className="relative rounded-2xl overflow-hidden p-[1px] bg-gradient-to-br from-primary via-secondary to-accent shadow-2xl group">
               <div className="w-full h-full bg-base-dark rounded-2xl overflow-hidden aspect-4/3 relative">
                 <img
-                  src="/src/assets/images/ai_neural_about_1784645921455.jpg"
+                  src="/ai_neural_about_1784645921455.jpg"
                   alt="AI Artificial Intelligence Neural Networks representation"
                   referrerPolicy="no-referrer"
                   className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700 filter saturate-[80%]"

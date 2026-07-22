@@ -21,7 +21,7 @@ export default function Projects() {
       description:
         'IoT-enabled water monitoring system using NodeMCU for real-time tank monitoring, alerts, and dashboard analytics.',
       tech: ['NodeMCU', 'Flutter', 'Firebase'],
-      imageSrc: '/src/assets/images/aquagaurd.jpeg',
+      imageSrc: '/aquagaurd.jpeg',
       demoUrl: 'https://youtu.be/ocyMNRA_HwE?si=-St9ecDI_lTGa841',
     },
     {
@@ -32,7 +32,7 @@ export default function Projects() {
       description:
         'Flutter application that generates participation and winner certificates dynamically with cloud storage integration.',
       tech: ['Flutter', 'Firebase', 'Supabase'],
-      imageSrc: '/src/assets/images/ai_neural_about_1784645921455.jpg',
+      imageSrc: '/ai_neural_about_1784645921455.jpg',
       demoUrl: '#',
     },
     {
@@ -43,7 +43,7 @@ export default function Projects() {
       description:
         'AI-powered OCR marksheet digitization platform that extracts student information and marks from scanned answer sheets and converts them into structured digital records.',
       tech: ['Python', 'OCR', 'FastAPI', 'React', 'MySQL'],
-      imageSrc: '/src/assets/images/ocr.jpeg',
+      imageSrc: '/ocr.jpeg',
       comingSoon: true,
     },
     {
@@ -54,7 +54,7 @@ export default function Projects() {
       description:
         'AI-powered answer sheet evaluation platform using Claude API for automated batch assessment and centralized result management.',
       tech: ['Claude API', 'FastAPI', 'React', 'Python'],
-      imageSrc: '/src/assets/images/EvalAI.png',
+      imageSrc: "/EvalAI.png",
       comingSoon: true,
     },
   ];
